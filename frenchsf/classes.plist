@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Classes</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Vocabulary-Prononciation-Conversation for intermediate level</string>
+			<key>Description</key>
+			<string>Every participant has a chance to speak and learn vocabulary via different fun exercises, including a lot of pronunciation and elocution practice.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=42150</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Supérieur 3</string>
+			<key>Description</key>
+			<string>Pour ceux qui ont terminé tous les 4 niveaux avancés, vous pouvez maintenant intégrer le cours supérieur pour en solidifier vos connaissances et approfondir votre français parlé, écrit, et lu.  Niveau B2.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=28173</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Supérieur 1</string>
+			<key>Description</key>
+			<string>Pour ceux qui ont terminé tous les 5 niveaux avancés, vous pouvez maintenant intégrer le cours supérieur pour solidifier vos connaissances et approfondir votre français parlé, écrit, et lu. Ceci est le supérieur niveau 1 (Niveau B2.) </string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=24358</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Lecture et Discussion</string>
+			<key>Description</key>
+			<string>Ceci est un cours d’étude de style et de vocabulaire sur un ouvrage choisi. 
+Livre inclus.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10920</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Intermediate Level 4</string>
+			<key>Description</key>
+			<string>Communication: Showing one&apos;s interest in something or somebody, making requests, placing the stress on the author or object of an action.
+Grammar: Demonstrative pronouns, interrogative pronouns ..
+Phonetics: sounds r, l ,j, v ,w.
+Cultural context: vocabulary pertaining to the work environment.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10905</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Intermediate Level 3</string>
+			<key>Description</key>
+			<string>Communication: Expressions of certainty, making suggestions, making polite requests.
+Grammar: Subjonctif, conditionnel présent.
+Phonetics: sounds s, z, n, m, k, g.
+Cultural context: Good manners, savoir-vivre, events.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10904</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Intermediate Level 2</string>
+			<key>Description</key>
+			<string>Communication: Expressing wishes, doubts, opinions and preferences, asking and offering assistance.
+Grammar: Passé composé, Imparfait, plus-que-parfait, négations.
+Phonetics: Pronunciation of présent , passé composé, imparfait.
+Cultural context: Urban and rural settings, differences and discrimination, modern evolution.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10903</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Intermediate Level 1</string>
+			<key>Description</key>
+			<string>Communication: Expression of obligation, doubt, probability and possibility.
+Grammar: Verb &quot;devoir&quot;; comparative and superlative forms; recent past, present continuous, immediate future. Relative pronouns (qui, que, où). Subjunctive form.
+Phonetics: Vowel sounds.
+Cultural context: French music, art and culture, advertisement etc…</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10902</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Grammar Advanced Courses</string>
+			<key>Description</key>
+			<string>Révisions de grammaire.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10912</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Grammar Intermediate Courses</string>
+			<key>Description</key>
+			<string>Review key grammar points in this intermediate grammar class.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10906</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Expert</string>
+			<key>Description</key>
+			<string>A placement test must be taken before subscription to the class.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=18084</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Cours de Littérature</string>
+			<key>Description</key>
+			<string>Un cours basé sur la lecture d&apos;une oeuvre classique suivi d&apos;analyses et discussion.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10919</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Conversation Intermediaire</string>
+			<key>Description</key>
+			<string>Put your knowledge to practice and develop your conversational skills! </string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=35122</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Conversation Advanced Courses</string>
+			<key>Description</key>
+			<string>Ce cours vous permet de pratiquer votre français.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10913</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Beginner Level 4</string>
+			<key>Description</key>
+			<string>Communication: Ordering a meal, a drink, asking for a price. Expressing surprise, doubt and dissatisfaction.
+Grammar: Quantitive articles (du, de la, de l&apos;, des), adverbs and objects pronouns (y, en) Imparfait versus Passé composé, demonstrative pronouns (celui, celle, ceux..), Interrogative pronouns (lequel, laquelle, lesquels..).
+Phonetics: Open and closed sounds.
+Cultural context: Books , francophonie.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10846</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Beginner Level 3</string>
+			<key>Description</key>
+			<string>Communication: Asking and giving information on transportation, speaking about past events, indicating frequency, asking and giving permission.
+Grammar: Passé compose using &quot;être&quot;; immediate future tense using aller + infinitive. &quot;Connaître&quot; versus &quot;Savoir&quot;, simple future tense.
+Phonetics: Pronunciation for questions, different accents.
+Cultural context: French games, songs, hobbies.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10845</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Beginner Level 2</string>
+			<key>Description</key>
+			<string>Communication: Distinction between the &quot;tu&quot; (informal) and &quot;vous&quot; (formal) forms of address, expressions of preference, refusal and acceptance.
+Grammar: Passé composé using &quot;avoir&quot;; negative form, plural forms, &quot;Est-ce que&quot; question form, verbs &quot;aller, faire, lire ,dire.&quot; Prepositions: &quot;en, au, aux, du, des.&quot;
+Phonetics: Final sounds, vowel sounds
+Cultural context: French traditions, parties, going-out at cafés and restaurants, French meals.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10844</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Beginner Level 1</string>
+			<key>Description</key>
+			<string>Communication: Greetings, introductions, nationalities and numbers.
+Grammar: Verbs &quot;to be&quot;, &quot;to have&quot;, and simple verbs; introduction to masculine/feminine pronouns; adjectives and articles, possessives, interrogative forms.
+Phonetics: Intonation, linkages between words.
+Cultural context: Geography of France, its location in Europe, French civilization.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10691</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Advanced Level 5</string>
+			<key>Description</key>
+			<string>Refine and expand your knowledge of French grammar Increase the level of sophistication of your verbal and written expression.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=39989</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Advanced Level 2</string>
+			<key>Description</key>
+			<string>Book: Latitudes 3 </string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=20253</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Advanced Level 1</string>
+			<key>Description</key>
+			<string>Book: Latitudes 3 </string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=20252</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Au fil de l&apos;histoire</string>
+			<key>Description</key>
+			<string>Amoureux (ses) d’histoire(s) et curieux (ses) chroniques, l’Alliance Française de San Francisco vous propose un nouveau rendez vous hebdomadaire ;  « Au Fil de l’Histoire ». 
+
+Cette nouvelle formule délibérément interactive vous invite à découvrir différentes époques de l’Histoire de France au travers de supports artistiques. Chansons, Peintures, Poésies, Photographies, Bandes dessinées comme autant de prétextes pour approfondir vos connaissances et enrichir votre pratique du français. 
+
+Pour cette première session l’Alliance Française propose d’aborder une époque généralement peu connue du grand public : « La Commune de Paris » ou la période insurrectionnelle de 1871.
+
+« Que c’est beau les voyages » chantait Monique Andrée Serf, dite Barbara dans les cabarets parisiens d’après guerre… Offrez vous un voyage dans le temps !</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=40158</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>La Langue française sous tous ses Aspects</string>
+			<key>Description</key>
+			<string>Pour les persones possédant un niveau de langue proche, plus ou moins, du Français courant. 
+
+Ce cours s&apos;articulera principalement autour des demandes des étudiants et tentera de trouver un équilibre entre l&apos;écrit et l&apos;oral. 
+
+Il y aura une oeuvre littéraire française contemporaine et/ou des articles de journaux traitant de sujets divers. 
+
+Les étudiants travailleront sur le vocabulaire, la grammaire et la syntaxe en relation avec les textes choisis.</string>
+			<key>Weblink</key>
+			<string>http://register.asapconnected.com//CourseDetail.aspx?CourseId=10927</string>
+		</dict>
+	</array>
+</dict>
+</plist>

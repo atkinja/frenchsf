@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Administrative</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Pascal Ledermann</string>
+			<key>Role</key>
+			<string>Executive Director</string>
+			<key>Description</key>
+			<string></string>
+			<key>ImageFile</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Zelinda Caudal </string>
+			<key>Role</key>
+			<string>Operations Manager</string>
+			<key>Description</key>
+			<string></string>
+			<key>ImageFile</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Emmanuelle Petit </string>
+			<key>Role</key>
+			<string>Director of studies/ Directrice Pédagogique</string>
+			<key>Description</key>
+			<string></string>
+			<key>ImageFile</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Anthony Morin </string>
+			<key>Role</key>
+			<string>Cultural Events Coordinator</string>
+			<key>Description</key>
+			<string></string>
+			<key>ImageFile</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

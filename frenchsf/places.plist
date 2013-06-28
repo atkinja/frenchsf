@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Places</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Notre Dame Des Victoires</string>
+			<key>Weblink</key>
+			<string>http://www.ndvsf.org</string>
+			<key>Description</key>
+			<string>Ecole Notre Dame des Victoires is a Catholic elementary school founded in 1924 by the Marist Fathers and is located near the financial district of San Francisco. We embrace the values of the Marists and the Sisters of St. Joseph of Orange and continue the tradition of teaching the French language and culture. As a faith-filled community, the faculty and staff of NDV are committed to nurturing our students spiritually, academically, socially, emotionally, and physically. We support a diverse group of learners who endeavor to develop an inclusive and compassionate world vision.</string>
+			<key>DescriptionFrench</key>
+			<string>Ecole Notre Dame des Victoires est une école élémentaire catholique fondée en 1924 par les Pères Maristes et est situé à proximité du quartier financier de San Francisco. Nous embrassons les valeurs des Maristes et les Sœurs de Saint-Joseph d&apos;Orange et de continuer la tradition de l&apos;enseignement de la langue et la culture françaises. En tant que communauté de foi, le corps professoral et le personnel de NDV sont engagés à entretenir nos étudiants spirituellement, académiquement, socialement, émotionnellement et physiquement. Nous soutenons un groupe diversifié d&apos;apprenants qui s&apos;efforcent de développer une vision du monde inclusive et compatissante.</string>
+			<key>Latitude</key>
+			<real>37.7906419</real>
+			<key>Longitude</key>
+			<real>-122.4065364</real>
+			<key>AudioFile</key>
+			<string>DontStopBelievin</string>
+			<key>ImageFile</key>
+			<string>Eglise.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Legion of Honor</string>
+			<key>Weblink</key>
+			<string>http://legionofhonor.famsf.org/about/history-legion-honor</string>
+			<key>Description</key>
+			<string>The Legion of Honor was the gift of Alma de Bretteville Spreckels, wife of the sugar magnate and thoroughbred racehorse owner/breeder Adolph B. Spreckels.  The building is a three-quarter-scale version of the Palais de la Légion d&apos;Honneur also known as the Hôtel de Salm in Paris by George Applegarth and H. Guillaume. It was completed in 1924.</string>
+			<key>DescriptionFrench</key>
+			<string>La Légion d&apos;honneur était le cadeau d&apos;Alma de Bretteville Spreckels, l&apos;épouse du magnat du sucre et pur-sang cheval de course propriétaire / éleveur Adolph B. Spreckels. Le bâtiment est une version trois-quarts échelle du Palais de la Légion d&apos;Honneur aussi connu comme l&apos;Hôtel de Salm à Paris par George Applegarth et H. Guillaume. Il a été achevé en 1924.</string>
+			<key>Latitude</key>
+			<real>37.784572</real>
+			<key>Longitude</key>
+			<real>-122.500617</real>
+			<key>AudioFile</key>
+			<string>DontStopBelievin</string>
+			<key>ImageFile</key>
+			<string>LegionOfHonor.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>French American International School</string>
+			<key>Weblink</key>
+			<string>http://www.internationalsf.org/</string>
+			<key>Description</key>
+			<string>The French American International School is a French and English PK-12 school based in San Francisco, California which allows students to study for the French baccalauréat and the International Baccalaureate. The high school is also referred to as International High School of San Francisco and is recognized as currently being the only school in San Francisco to offer the International Baccalaureate Diploma Program.</string>
+			<key>DescriptionFrench</key>
+			<string>Le Lycée Français International américain est un PK-12 l&apos;école française et anglaise basée à San Francisco, en Californie, qui permet aux étudiants d&apos;étudier pour le baccalauréat français et le baccalauréat international. Le lycée est aussi appelée International High School de San Francisco et est reconnu comme étant actuellement la seule école à San Francisco pour offrir le Programme du diplôme du Baccalauréat.</string>
+			<key>Latitude</key>
+			<real>37.7749583</real>
+			<key>Longitude</key>
+			<real>-122.4218846</real>
+			<key>AudioFile</key>
+			<string>DontStopBelievin</string>
+			<key>ImageFile</key>
+			<string>FrenchSchool.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Café de la Presse</string>
+			<key>Weblink</key>
+			<string>http://www.cafedelapresse.com</string>
+			<key>Description</key>
+			<string>San Francisco’s hot spot for café fare &amp; international literature. Intimate &amp; urban, Café de la Presse has been a gathering place for the age-old tradition of enjoying conversation, politics, style, and cuisine since 1992. Café de la Presse serves traditional, high-quality bistro dishes while convening diverse cultures. 
+
+Our 2005 renovation and revitalized menu produced a true Parisian-inspired café that flaunts great panache and keeps our customers a la mode with a vast selection of journalism 
+from all over the world, nestled in the heart of San Francisco.
+
+Café de la Presse, an exemplary display of old-world classicism meeting modern taste, is one of Union Square’s most popular dining and entertainment venues.</string>
+			<key>DescriptionFrench</key>
+			<string>Hot spot de San Francisco pour café tarif et littérature internationale. Intime et urbain, Café de la Presse a été un lieu de rassemblement pour la tradition séculaire de la conversation en appréciant, la politique, le style,et la cuisine depuis 1992. Café de la Presse sert une cuisine traditionnelle, plats de bistrot haute qualité tout convocation diverses cultures.
+
+Notre 2005 rénovation et le menu revitalisé produit un véritable Café parisien d&apos;inspiration qui arbore brio et maintient
+nos clients à la mode avec une vaste sélection de journalisme de partout dans le monde, niché au cœur de San Francisco.
+
+Café de la Presse, un exemple d&apos;affichage du vieux monde réunion classicisme du goût moderne, est l&apos;un des plus de Union Square
+repas populaire et lieux de divertissement.</string>
+			<key>Latitude</key>
+			<string>37.7904616</string>
+			<key>Longitude</key>
+			<string>-122.4054385</string>
+			<key>AudioFile</key>
+			<string>DontStopBelievin</string>
+			<key>ImageFile</key>
+			<string>CafeDeLaPresse.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Café Bastille</string>
+			<key>Weblink</key>
+			<string>http://www.cafebastille.com</string>
+			<key>Description</key>
+			<string>Café Bastille... a part of Paris in San Francisco!
+
+Located in the heart of San Francisco&apos;s Financial District, on Belden Place, Café Bastille will make you discover the incredible atmosphere of old Paris and French bistro lifestyle. Our outside terrace seating is the best place for sidewalk dining in San Francisco! The ally is guarded from the wind and the heating lamps keep our diners toasty even on a chilly night.
+
+We are open Monday to Saturday for lunch and dinner, as well as for private parties, and weekends for brunch.
+
+The ambiance is incredibly relax and fun. We invite you to join us for a truly unforgettable Parisian dining experience.</string>
+			<key>DescriptionFrench</key>
+			<string>Café Bastille ... une partie de Paris à San Francisco!
+
+Situé au cœur du quartier financier de San Francisco, sur Belden Place, Café Bastille vous fera découvrir l&apos;ambiance incroyable du vieux Paris et bistrot français style de vie. Notre sièges à l&apos;extérieur de la terrasse est le meilleur endroit pour manger sur le trottoir à San Francisco! L&apos;allié est gardée par le vent et les lampes chauffantes garder nos convives bien au chaud même par une nuit froide.
+
+Nous sommes ouverts du lundi au samedi pour le déjeuner et le dîner, ainsi que pour des soirées privées, et le week-end pour le brunch.
+
+L&apos;ambiance est très relax et amusant. Nous vous invitons à nous rejoindre pour une expérience culinaire parisien inoubliable.</string>
+			<key>Latitude</key>
+			<string>37.7911898</string>
+			<key>Longitude</key>
+			<string>-122.4035852
+</string>
+			<key>AudioFile</key>
+			<string>DontStopBelievin</string>
+			<key>ImageFile</key>
+			<string>CafeBastille.jpg</string>
+		</dict>
+		<dict>
+			<key>Name</key>
+			<string>Boudin Bakery</string>
+			<key>Weblink</key>
+			<string>http://www.boudinbakery.com</string>
+			<key>Description</key>
+			<string>In 1849, the Boudin family struck culinary gold. Wild yeasts in the San Francisco air had imparted a unique tang to their traditional French bread, giving rise to “San Francisco sourdough French bread.” Today, the Boudin family&apos;s initial recipe lives on in the hands and hearts of our expert bakers, with a portion of the original mother dough still starting each and every sourdough loaf we make.</string>
+			<key>DescriptionFrench</key>
+			<string>En 1849, la famille Boudin a frappé l&apos;or culinaire. Les levures sauvages dans l&apos;air San Francisco avaient conféré une saveur unique à leur pain de tradition française, donnant naissance à &quot;San Francisco levain du pain français.&quot; Aujourd&apos;hui, la recette initiale de la famille Boudin vit dans les mains et les cœurs de nos boulangers d&apos;experts, avec une partie de la pâte de mère d&apos;origine en commençant toujours chaque pain au levain que nous faisons.</string>
+			<key>Latitude</key>
+			<string>37.8083766</string>
+			<key>Longitude</key>
+			<string>-122.4148278</string>
+			<key>AudioFile</key>
+			<string>DontStopBelievin</string>
+			<key>ImageFile</key>
+			<string>BoudinBakery.jpg</string>
+		</dict>
+	</array>
+</dict>
+</plist>
